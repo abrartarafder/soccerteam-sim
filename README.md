@@ -1,5 +1,7 @@
 # soccerteam-sim
 
+## This is one of the Course Projects for an Advanced Java Course
+
 1. **Object-Oriented Design:** Demonstrated proficiency in designing and implementing classes (`SoccerTeam`, `Player`, and `Coach`) using object-oriented principles such as encapsulation, inheritance, and polymorphism.
 
 2. **Constructor Variations:** Successfully created multiple constructors for the `SoccerTeam` and `Player` classes, including default, overloaded, and copy constructors, allowing for versatile object creation and deep copying of object attributes.
